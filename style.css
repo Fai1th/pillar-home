@@ -104,6 +104,18 @@ h2 { font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 900; letter-spacing: -0
 .btn-pass:hover { opacity: 0.85; }
 .pass-save { font-size: 0.72rem; color: #3dbf8a; text-align: center; }
 
+/* Pro logos row */
+.pro-logos-row { display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-bottom: 3.5rem; }
+.pro-logo-item { display: flex; flex-direction: column; align-items: center; gap: 0.5rem; }
+.pro-logo-item img { width: 64px; height: 64px; }
+.pro-logo-item span { font-size: 0.72rem; color: var(--muted); font-weight: 600; }
+.muted-item { opacity: 0.4; }
+.pro-logo-placeholder { width: 64px; height: 64px; border: 2px dashed #333; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1rem; font-weight: 800; color: #444; }
+
+/* Pass logo header */
+.pass-logo-header { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.5rem; }
+.pass-logo-img { width: 48px; height: 48px; }
+
 .price-vs { font-size: 0.75rem; color: var(--muted); font-weight: 700; text-align: center; }
 
 /* ABOUT */

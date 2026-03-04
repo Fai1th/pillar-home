@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Key bow (circle) -->
+  <circle cx="36" cy="36" r="26" stroke="#f0c040" stroke-width="5" fill="none"/>
+  <!-- Pillar columns inside bow -->
+  <rect x="26" y="24" width="4" height="20" rx="1.5" fill="#f0c040"/>
+  <rect x="32" y="24" width="4" height="20" rx="1.5" fill="#f0c040"/>
+  <rect x="38" y="24" width="4" height="20" rx="1.5" fill="#f0c040"/>
+  <!-- Capital top bar -->
+  <rect x="24" y="22" width="20" height="3" rx="1.5" fill="#f0c040"/>
+  <!-- Base bottom bar -->
+  <rect x="24" y="43" width="20" height="3" rx="1.5" fill="#f0c040"/>
+  <!-- Key shaft -->
+  <rect x="60" y="33" width="36" height="5" rx="2.5" fill="#f0c040"/>
+  <!-- Key teeth -->
+  <rect x="84" y="38" width="5" height="11" rx="2" fill="#f0c040"/>
+  <rect x="72" y="38" width="5" height="9" rx="2" fill="#f0c040"/>
+</svg>
